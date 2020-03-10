@@ -5,9 +5,9 @@ require 'pp'
 
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
-  puts pp nds
+  pp nds
 end
 
 def print_first_directors_movie_titles
-  
+  while
 end
